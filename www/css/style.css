@@ -1,0 +1,12 @@
+a.item-content {
+	background-color:#DCEBEF;
+}
+
+.disable-user-behavior {
+	background-color:#DCEBEF;
+}
+
+.slide1, slide2, slide3 {
+   height: 300px;
+   border: 2px solid blue;
+}
